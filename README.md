@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in Egypt, covering official government portals, transport, regional antiquities, Nile cruises, and Red Sea coast guides.
 
+Egypt is a timeless North African destination bridging the Mediterranean and the Red Sea, renowned for its ancient Pharaonic monuments, the Nile River valley, and desert heritage. This list is intended for archaeological explorers, cultural historians, desert trekkers, and scuba diving enthusiasts.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
